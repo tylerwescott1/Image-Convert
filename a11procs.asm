@@ -1,16 +1,3 @@
-; *****************************************************************
-;  Name: Tyler Wescott
-;  NSHE_ID: 5006959108
-;  Section: 1004
-;  Assignment: 11
-;  Description: convert pictures to grayscale, brighten, and darken
-
-
-; ***********************************************************************
-;  Data declarations
-;	Note, the error message strings should NOT be changed.
-;	All other variables may changed or ignored...
-
 ; ***********************************************************************
 ;  Data declarations
 ;	Note, the error message strings should NOT be changed.
