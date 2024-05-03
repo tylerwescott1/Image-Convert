@@ -1,8 +1,3 @@
-; ***********************************************************************
-;  Data declarations
-;	Note, the error message strings should NOT be changed.
-;	All other variables may changed or ignored...
-
 section	.data
 
 ; -----
