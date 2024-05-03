@@ -1,5 +1,4 @@
-// CS 218 - Provided C++ program
-//	This programs calls assembly language routines.
+	This programs calls assembly language routines.
 
 //  Must ensure g++ compiler is installed:
 //	sudo apt-get install g++
